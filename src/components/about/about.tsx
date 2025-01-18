@@ -8,7 +8,7 @@ const About = () => {
                     </div>
                     <div className="ml-8 w-[500px] flex flex-col gap-12">
                         <span className="text-xl mt-20"><span className="font-bold">Navayodha</span> adalah sebuah event organizer yang dibuat oleh 9 pemuda dengan semangat yang membara. Navayodha berasal dari dua bahasa sansekerta, Nava yang berarti sembilan dan Yodha yang berarti pejuang, yang jika disatukan memiliki filosofi 9 pemuda yang memiliki banyak pengalaman ingin membantu menciptakan kegiatan-kegiatan yang bermakna bagi semua orang. </span>
-                        <button className="bg-gradient-to-r from-[#62e855] to-[#ecde18] px-8 py-2 hover:opacity-90 rounded-xl font-bold text-lg w-fit">Hubungi Kami</button>
+                        <a href="https://wa.me/6285640322120" className="bg-gradient-to-r from-[#62e855] to-[#ecde18] px-8 py-2 hover:opacity-90 rounded-xl font-bold text-lg w-fit">Hubungi Kami</a>
                     </div>
                 </div>
             </div>
